@@ -1,0 +1,16 @@
+div{
+    width: 200px;
+    height: 100px;
+    
+    color: green;
+    background-color: white;
+    border: 5px solid green;
+}
+h1 {
+    width: 180px;
+    height: 80px;
+    font-size: 30px;
+    margin: 10px;
+    text-align: center;
+    background-color: gray;
+}
