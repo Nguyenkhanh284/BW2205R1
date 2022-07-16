@@ -42,7 +42,7 @@ img{
 @media screen and (max-width:900px) {
     .gallery{
         width: 40%;
-        margin: 20px 40px ;
+        margin: 20px 0px ;
     }
 
     h1, h2{
